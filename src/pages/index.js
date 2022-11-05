@@ -19,8 +19,6 @@ const IndexPage = ({
   return (
     <Layout>
       <Helmet>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5870322734992761"
-     crossorigin="anonymous"></script>
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
